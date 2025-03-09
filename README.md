@@ -20,15 +20,25 @@ Libraries: SockJS, STOMP.js
 
 /chat-app
  ├── src/main/java/com/chat/app
+ 
  │   ├── ChatApplication.java            # Main Spring Boot Application
+ 
  │   ├── config/WebSocketConfig.java     # WebSocket Configuration
+ 
  │   ├── controller/ChatController.java  # Handles chat messages
+ 
  │   ├── model/ChatMessage.java          # Chat message model
+ 
  │
+ 
  ├── src/main/resources/templates
+ 
  │   ├── chat.html                       # Frontend UI (HTML + JS)
+ 
  │
+ 
  ├── pom.xml                              # Maven dependencies
+ 
  ├── README.md                            # Project documentation
 
 🚀 How to Run
