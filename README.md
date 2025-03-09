@@ -1,4 +1,4 @@
-🖬 Chat Application - Real-Time Messaging with WebSockets 🚀
+# 🖬 Chat Application - Real-Time Messaging with WebSockets 🚀
 
 📚 Overview
 
@@ -35,7 +35,7 @@ Libraries: SockJS, STOMP.js
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/jayaRajuE/chat-app.git
 cd chat-app
 
 2️⃣ Run the Spring Boot Server
