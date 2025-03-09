@@ -86,5 +86,3 @@ Add these dependencies to pom.xml:
 
 This project is open-source. Feel free to contribute!
 
-Let me know if you want any modifications! 🚀
-
