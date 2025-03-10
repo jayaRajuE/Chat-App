@@ -1,4 +1,4 @@
-# 🖬 Chat Application - Real-Time Messaging with WebSockets 🚀
+# Chat Application - Real-Time Messaging with WebSockets 🚀
 
 📚 Overview
 
